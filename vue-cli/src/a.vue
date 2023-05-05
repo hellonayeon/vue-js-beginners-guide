@@ -1,14 +1,5 @@
-var appHeader = {
-	template: '<div>header</div>',
-	methods: {
-		addNum: function() {
-
-		}
-	}
-}
-
-
 <template>
+	<!-- HTML -->
 	<div>header</div>
 </template>
 
@@ -24,5 +15,5 @@ export default { // ES6의 Modules와 관련된 문법
 </script>
 
 <style>
-
+	/* CSS */
 </style>
